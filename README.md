@@ -26,3 +26,7 @@ Watch:
 Build:
 
 > yarn build
+
+## Other
+
+Donations kindly accepted at **noforks.tez**
